@@ -29,7 +29,7 @@ Ce projet implémente un pipeline de préparation de données de pointe pour con
 - **Points forts techniques :** - 🛠️ **Feature Engineering :** Utilisation du `RobustScaler` pour neutraliser l'impact des valeurs aberrantes.
   - ⚖️ **Équilibrage avancé :** Implémentation de `SMOTE` (Synthetic Minority Over-sampling Technique) pour générer des données synthétiques intelligentes.
   - 🔍 **Architecture de Validation :** Split stratégique Train/Test pour garantir des performances réelles et non biaisées.
-  [Lien vers le projet Pipeline-de-Preparation-de-Donnees-pour-la-Detection-de-Fraude]()
+  [Lien vers le projet Pipeline-de-Preparation-de-Donnees-pour-la-Detection-de-Fraude](https://github.com/ericfezeul-cloud/Pipeline-de-Preparation-de-Donnees-pour-la-Detection-de-Fraude)
 
 
 ---
