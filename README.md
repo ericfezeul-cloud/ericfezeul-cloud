@@ -56,7 +56,7 @@ Ce projet implémente un pipeline de préparation de données de pointe pour con
 ### 📫 **Restons en contact !**
 
 - 💼 **LinkedIn** : [linkedin.com/in/ericfezeu](https://www.linkedin.com/feed/))
-- 📧 **Email** : [votre-email@exemple.com](mailto:ericfezeul@gmail.com)
+- 📧 **Email** : [ericfezeul@gmail.com](mailto:ericfezeul@gmail.com)
 - ⚡ **Fun Fact** : Je traite les données comme je gère les réseaux de télécom : avec une obsession pour la connectivité sans faille et la sécurité absolue.
 
 ---
