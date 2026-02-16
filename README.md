@@ -82,7 +82,7 @@ Technical Highlights:
 
 ⚖️ Advanced Balancing: Implemented SMOTE (Synthetic Minority Over-sampling Technique) to generate intelligent synthetic data.
 
-🔍 Validation Architecture: Used a strategic Train/Test split to ensure unbiased, real-world performance.
+🔍 Validation Architecture: Used a strategic Train/Test split to ensure unbiased, real-world performance.   [Link to the project Pipeline-de-Preparation-de-Donnees-pour-la-Detection-de-Fraude](https://github.com/ericfezeul-cloud/Pipeline-de-Preparation-de-Donnees-pour-la-Detection-de-Fraude)
 
 🛠️ Expertise & Technologies
 📊 Impact & GitHub Stats
