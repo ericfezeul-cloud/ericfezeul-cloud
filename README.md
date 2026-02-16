@@ -60,4 +60,38 @@ Ce projet implémente un pipeline de préparation de données de pointe pour con
 - ⚡ **Fun Fact** : Je traite les données comme je gère les réseaux de télécom : avec une obsession pour la connectivité sans faille et la sécurité absolue.
 
 ---
+# <p align="center"><i>"Data is the new oil, but security is the refinery."</i></p>
+
+
+<p align="center">👋 Hello, I'm <span style="color:#2E86C1;">Eric Fezeu</span></p>
+<p align="center"> <img src=""> <img src=""> <img src=""> </p>
+
+🚀 Professional Profile
+As a dual-qualified engineer, I bridge the gap between the technical rigor of Telecommunications Engineering and the analytical power of Applied Data Science. My career is highlighted by 5 years of significant impact managing critical health data for PEPFAR, where I transformed complex data streams into strategic decision-making tools for the fight against HIV.
+
+<p align="center"> <b>Keywords:</b> <code style="color:#FF5733;">Machine Learning</code> | <code style="color:#33FF57;">Network Security</code> | <code style="color:#3357FF;">Data Ethics</code> | <code style="color:#F333FF;">Cloud Computing</code> </p>
+
+🏆 Featured Project: Banking Fraud Detection Pipeline
+The Challenge: How to find the needle (fraud) in the haystack (millions of transactions)?
+
+This project implements a state-of-the-art data preparation pipeline designed to tackle massive class imbalance, a major hurdle in financial cybersecurity.
+
+Technical Highlights:
+
+🛠️ Feature Engineering: Leveraged RobustScaler to neutralize the influence of outliers.
+
+⚖️ Advanced Balancing: Implemented SMOTE (Synthetic Minority Over-sampling Technique) to generate intelligent synthetic data.
+
+🔍 Validation Architecture: Used a strategic Train/Test split to ensure unbiased, real-world performance.
+
+🛠️ Expertise & Technologies
+📊 Impact & GitHub Stats
+<p align="center"> <img src="" alt="Eric's Stats" /> <img src="" alt="Most Used Languages" /> </p>
+
+📫 Let's Connect!
+- 💼 **LinkedIn** : [linkedin.com/in/ericfezeu](https://www.linkedin.com/feed/))
+- 📧 **Email** : [ericfezeul@gmail.com](mailto:ericfezeul@gmail.com)
+
+⚡ Fun Fact: I treat data the same way I manage telecom networks: with an obsession for seamless connectivity and absolute security.
+
 <p align="center"><i>"Data is the new oil, but security is the refinery."</i></p>
